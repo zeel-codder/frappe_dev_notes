@@ -14,18 +14,10 @@ The course will include:
 
 - [ ] Doctype
 
+  - [ ] Introduction to Module ([Link](frappe_tutorial/docs/doctype/introduction_to_module.md))
   - [ ] Introduction to Doctype ([Link](frappe_tutorial/docs/doctype/introduction_to_doctype.md))
-  - [ ] Doctype and modules
-    - [ ] What is a doctype?
-    - [ ] What are modules?
-    - [ ] Core doctype
-    - [ ] Creating a module and doctype in Frappe
-    - [ ] Doctype fields
-    - [ ] Child table
-    - [ ] Customizing forms
-    - [ ] Export customizations in Frappe
-    - [ ] Connections of Doctype
-    - [ ] Default Frappe form validation
+  - [ ] Doctype fields and options
+  - [ ] Customizing forms
 
 - [ ] Extending Default Doctype Functionality
 
