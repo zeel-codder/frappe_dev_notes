@@ -17,6 +17,6 @@ fm code frappe-tutorial
 
 3. Visit the given URL to see the site: http://frappe-tutorial.localhost/#login
 
-GitHub Repository: https://github.com/zeel-codder/frappe_tutorial
+GitHub Repository: https://github.com/zeel-codder/frappe_dev_notes
 
 YT: https://www.youtube.com/watch?v=6tPyFglNklU

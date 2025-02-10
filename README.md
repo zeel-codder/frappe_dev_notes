@@ -4,18 +4,18 @@ An end-to-end Frappe course.
 
 The course will include:
 
-- [x] Introduction to Course ([Link](/frappe_tutorial/docs/introduction_to_course.md))
+- [x] Introduction to Course ([Link](/frappe_dev_notes/docs/introduction_to_course.md))
 
-  - [x] Introduction to Frappe ([Link](/frappe_tutorial/docs/introduction_to_frappe.md))
-  - [x] Setting up Frappe locally ([Link](/frappe_tutorial/docs/setting_up_frappe_locally.md))
-  - [x] Introduction to bench CLI ([Link](frappe_tutorial/docs/bench/introduction_to_bench_cli.md))
-  - [ ] Creating a Frappe app and installing it on a site ([Link](frappe_tutorial/docs/bench/custom_app_creation.md))
+  - [x] Introduction to Frappe ([Link](/frappe_dev_notes/docs/introduction_to_frappe.md))
+  - [x] Setting up Frappe locally ([Link](/frappe_dev_notes/docs/setting_up_frappe_locally.md))
+  - [x] Introduction to bench CLI ([Link](frappe_dev_notes/docs/bench/introduction_to_bench_cli.md))
+  - [ ] Creating a Frappe app and installing it on a site ([Link](frappe_dev_notes/docs/bench/custom_app_creation.md))
   - [ ] Frappe folder structure
 
 - [ ] Doctype
 
-  - [ ] Introduction to Module ([Link](frappe_tutorial/docs/doctype/introduction_to_module.md))
-  - [ ] Introduction to Doctype ([Link](frappe_tutorial/docs/doctype/introduction_to_doctype.md))
+  - [ ] Introduction to Module ([Link](frappe_dev_notes/docs/doctype/introduction_to_module.md))
+  - [ ] Introduction to Doctype ([Link](frappe_dev_notes/docs/doctype/introduction_to_doctype.md))
   - [ ] Doctype fields and options
   - [ ] Customizing forms
 

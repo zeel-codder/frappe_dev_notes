@@ -1,5 +1,5 @@
 In this part, we are going to cover what we will learn during the whole course. Brief introduction about me and a course walkthrough.
 
-GitHub Repository: https://github.com/zeel-codder/frappe_tutorial
+GitHub Repository: https://github.com/zeel-codder/frappe_dev_notes
 
 YT: https://youtu.be/3V3vehf4D9M

@@ -9,6 +9,6 @@ Links:
 6. https://t.me/frappeframework
 
 
-GitHub Repository: https://github.com/zeel-codder/frappe_tutorial
+GitHub Repository: https://github.com/zeel-codder/frappe_dev_notes
 
 YT: https://www.youtube.com/watch?v=Tvr6CRIRTZQ

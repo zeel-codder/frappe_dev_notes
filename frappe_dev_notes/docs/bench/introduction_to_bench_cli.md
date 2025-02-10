@@ -144,6 +144,6 @@ bench clear-cache
 bench clear-website-cache
 ```
 
-GitHub Repository: https://github.com/zeel-codder/frappe_tutorial
+GitHub Repository: https://github.com/zeel-codder/frappe_dev_notes
 
 YT: https://www.youtube.com/watch?v=4Lgj77s_fc4
